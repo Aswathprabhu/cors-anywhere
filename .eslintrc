@@ -1,6 +1,7 @@
 {
   "env": {
-    "node": true
+    "node": true,
+    "es": true
   },
   "rules": {
     "array-bracket-spacing": [2, "never"],
